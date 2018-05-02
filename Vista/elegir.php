@@ -34,7 +34,7 @@ session_start();
 		<div class="container text-center">
 		<form action="validacion/validarGenerarNumero.php" method="POST">
 			<fieldset>
-				<legend>Ese numero es</legend>
+				<legend>Mi numero es</legend>
 				<select name="pista" class="form-control">
 					<option value="-1">Menor</option>
 					<option value="0">Igual</option>
